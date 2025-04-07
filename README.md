@@ -6,4 +6,4 @@ My name is **Ire Ahn**, and I am a Piano Major Student.
 
 This is my first GitHub repository
 
-<img src="Hello-world.png">
+<img src="hello-world.png">
